@@ -22,6 +22,6 @@ selector {
 
 <ul>
   <li>Author: Laith Hussein</li>
-  <li>Website: laith7ussein.com</li>
-  <li>E-Mail: contact@laith7ussein.com</li>
+  <li>Website: <a href="https://laith7ussein.com">laith7ussein.com</a></li>
+  <li>E-Mail: <a href = "mailto: contact@laith7ussein.com">contact@laith7ussein.com</a></li>
 </ul>
