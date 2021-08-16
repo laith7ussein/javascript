@@ -10,11 +10,13 @@ selector {
 
 Instead of
 
+<pre>
 selector {
 
   zoom: value;
   
 }
+</pre>
 
 <ul>
   <li>Author: Laith Hussein</li>
