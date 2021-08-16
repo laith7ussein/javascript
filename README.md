@@ -1,4 +1,4 @@
-# javascript
+# Jquery draggable with scale or zoom
 
 Author: Laith Hussein
 Website: laith7ussein.com
